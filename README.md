@@ -3,7 +3,7 @@
 ## 🚀 A Curious Software Developer
 
 🎓 *4th-year CSE undergraduate at IIITDMJ* 🧑🏻‍💻  
-🌱 Currently diving into *DevOps* 🔧
+🌱 Currently diving into *DevOps and LLMs* 🔧
 
 ## 🔧 Technologies & Tools
 
