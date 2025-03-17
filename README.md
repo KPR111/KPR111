@@ -30,4 +30,4 @@
 ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KPR111&theme=algolia)  
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KPR111&theme=algolia&utcOffset=8)
 
-📩 You can reach me at *prudvirajkaukuntla3.com* ✉️
+📩 You can reach me at *prudvirajkaukuntla3@gmail.com* ✉️
