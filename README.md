@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Prudvi Raj
 
-## 🚀 A Curious Software Developer
-
-🎓 *4th-year CSE undergraduate at IIITDMJ* 🧑🏻‍💻  
-🌱 Currently diving into *DevOps and LLMs* 🔧
+## 🚀 A Curious Software Developer and Physical AI explorer
+  
+🌱 Currently diving into *Physical AI* 🔧
 
 ## 🔧 Technologies & Tools
 
